@@ -1,6 +1,6 @@
 {
   "name": "@bloodf/eslint-config-monorepo",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "private": true,
   "packageManager": "pnpm@7.1.6",
   "license": "MIT",
@@ -21,9 +21,9 @@
     "prepare": "husky install"
   },
   "devDependencies": {
+    "@bloodf/eslint-config-base": "*",
     "@commitlint/cli": "^17.0.1",
     "@commitlint/config-conventional": "^17.0.0",
-    "@bloodf/eslint-config-base": "*",
     "bumpp": "^7.1.1",
     "commitlint-plugin-workspace-scopes": "^1.1.0",
     "husky": "^8.0.1",
