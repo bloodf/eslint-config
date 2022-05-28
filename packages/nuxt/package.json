@@ -1,6 +1,6 @@
 {
   "name": "@bloodf/eslint-config-nuxt",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Heitor Ramon Ribeiro <heitor.ramon@gmail.com> (https://heitor.cc/)",
   "license": "MIT",
   "homepage": "https://github.com/bloodf/eslint-config",
