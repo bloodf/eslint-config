@@ -1,15 +1,9 @@
 {
-  "name": "@vue-storefront/eslint-config-nuxt2",
+  "name": "@bloodf/eslint-config-nuxt2",
   "version": "1.0.0",
   "license": "MIT",
-  "homepage": "https://github.com/vuestorefront/eslint-config",
-  "contributors": [
-    {
-      "name": "Heitor Ramon Ribeiro",
-      "email": "heitor.ramon@gmail.com",
-      "url": "https://heitor.co"
-    }
-  ],
+  "homepage": "https://github.com/bloodf/eslint-config",
+  "author": "Heitor Ramon Ribeiro <heitor.ramon@gmail.com> (https://heitor.cc/)",
   "keywords": [
     "eslint-config"
   ],
@@ -29,9 +23,9 @@
     "@nuxtjs/eslint-config-typescript": "latest",
     "@typescript-eslint/eslint-plugin": "^5.26.0",
     "@typescript-eslint/parser": "^5.26.0",
-    "@vue-storefront/eslint-config-base": "workspace:*",
-    "@vue-storefront/eslint-config-ts": "workspace:*",
-    "@vue-storefront/eslint-config-vue2": "latest",
+    "@bloodf/eslint-config-base": "workspace:*",
+    "@bloodf/eslint-config-ts": "workspace:*",
+    "@bloodf/eslint-config-vue2": "latest",
     "@vue/eslint-config-typescript": "^10.0.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-airbnb-typescript": "^17.0.0",

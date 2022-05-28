@@ -1,6 +1,6 @@
 {
   "root": true,
-  "extends": ["@vue-storefront/eslint-config-base"],
+  "extends": ["@bloodf/eslint-config-base"],
   "parserOptions": {
     "project": "tsconfig.json",
     "ecmaFeatures": {

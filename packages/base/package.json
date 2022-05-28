@@ -1,15 +1,9 @@
 {
-  "name": "@vue-storefront/eslint-config-base",
+  "name": "@bloodf/eslint-config-base",
   "version": "1.0.0",
   "license": "MIT",
-  "homepage": "https://github.com/vuestorefront/eslint-config",
-  "contributors": [
-    {
-      "name": "Heitor Ramon Ribeiro",
-      "email": "heitor.ramon@gmail.com",
-      "url": "https://heitor.co"
-    }
-  ],
+  "homepage": "https://github.com/bloodf/eslint-config",
+  "author": "Heitor Ramon Ribeiro <heitor.ramon@gmail.com> (https://heitor.cc/)",
   "keywords": [
     "eslint-config"
   ],

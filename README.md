@@ -1,4 +1,4 @@
-# @vue-storefront/eslint-config
+# @bloodf/eslint-config
 
 Eslint configuration for:
 - JavaScript
@@ -24,87 +24,87 @@ This configuration provides eslint rules for the following:
 ## Usage
 
 ### Base Config
-[![npm](https://img.shields.io/npm/v/@vue-storefront/eslint-config-base?color=a1b858&label=)](https://npmjs.com/package/@vue-storefront/eslint-config-base)
+[![npm](https://img.shields.io/npm/v/@bloodf/eslint-config-base?color=a1b858&label=)](https://npmjs.com/package/@bloodf/eslint-config-base)
 #### Install
 ```bash
-pnpm add -D eslint @vue-storefront/eslint-config-base
+pnpm add -D eslint @bloodf/eslint-config-base
 ```
 
 #### Config `.eslintrc`
 ```json
 {
-  "extends": "@vue-storefront-base"
+  "extends": "@bloodf-base"
 }
 ```
 
 ### TypeScript Config
-[![npm](https://img.shields.io/npm/v/@vue-storefront/eslint-config-ts?color=a1b858&label=)](https://npmjs.com/package/@vue-storefront/eslint-config-ts)
+[![npm](https://img.shields.io/npm/v/@bloodf/eslint-config-ts?color=a1b858&label=)](https://npmjs.com/package/@bloodf/eslint-config-ts)
 #### Install
 ```bash
-pnpm add -D eslint @vue-storefront/eslint-config-typescript
+pnpm add -D eslint @bloodf/eslint-config-typescript
 ```
 
 #### Config `.eslintrc`
 ```json
 {
-  "extends": "@vue-storefront-typescript"
+  "extends": "@bloodf-typescript"
 }
 ```
 
 ### Nuxt 3 Config
-[![npm](https://img.shields.io/npm/v/@vue-storefront/eslint-config-nuxt?color=a1b858&label=)](https://npmjs.com/package/@vue-storefront/eslint-config-nuxt)
+[![npm](https://img.shields.io/npm/v/@bloodf/eslint-config-nuxt?color=a1b858&label=)](https://npmjs.com/package/@bloodf/eslint-config-nuxt)
 #### Install
 ```bash
-pnpm add -D eslint @vue-storefront/eslint-config-nuxt
+pnpm add -D eslint @bloodf/eslint-config-nuxt
 ```
 
 #### Config `.eslintrc`
 ```json
 {
-  "extends": "@vue-storefront-nuxt"
+  "extends": "@bloodf-nuxt"
 }
 ```
 
 ### Nuxt 2 Config
-[![npm](https://img.shields.io/npm/v/@vue-storefront/eslint-config-nuxt2?color=a1b858&label=)](https://npmjs.com/package/@vue-storefront/eslint-config-nuxt2)
+[![npm](https://img.shields.io/npm/v/@bloodf/eslint-config-nuxt2?color=a1b858&label=)](https://npmjs.com/package/@bloodf/eslint-config-nuxt2)
 #### Install
 ```bash
-pnpm add -D eslint @vue-storefront/eslint-config-nuxt2
+pnpm add -D eslint @bloodf/eslint-config-nuxt2
 ```
 
 #### Config `.eslintrc`
 ```json
 {
-  "extends": "@vue-storefront-nuxt2"
+  "extends": "@bloodf-nuxt2"
 }
 ```
 
 ### Vue 3 Config
-[![npm](https://img.shields.io/npm/v/@vue-storefront/eslint-config-vue?color=a1b858&label=)](https://npmjs.com/package/@vue-storefront/eslint-config-vue)
+[![npm](https://img.shields.io/npm/v/@bloodf/eslint-config-vue?color=a1b858&label=)](https://npmjs.com/package/@bloodf/eslint-config-vue)
 #### Install
 ```bash
-pnpm add -D eslint @vue-storefront/eslint-config-vue
+pnpm add -D eslint @bloodf/eslint-config-vue
 ```
 
 #### Config `.eslintrc`
 ```json
 {
-  "extends": "@vue-storefront-vue"
+  "extends": "@bloodf-vue"
 }
 ```
 
 ### Vue 2 Config
-[![npm](https://img.shields.io/npm/v/@vue-storefront/eslint-config-vue2?color=a1b858&label=)](https://npmjs.com/package/@vue-storefront/eslint-config-vue2)
+[![npm](https://img.shields.io/npm/v/@bloodf/eslint-config-vue2?color=a1b858&label=)](https://npmjs.com/package/@bloodf/eslint-config-vue2)
 #### Install
 
 ```bash
-pnpm add -D eslint @vue-storefront/eslint-config-vue2
+pnpm add -D eslint @bloodf/eslint-config-vue2
 ```
 
 #### Config `.eslintrc`
 ```json
 {
-  "extends": "@vue-storefront-vue2"
+  "extends": "@bloodf-vue2"
 }
 ```
 

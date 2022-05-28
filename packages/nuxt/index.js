@@ -14,8 +14,8 @@ module.exports = {
     },
   ],
   extends: [
-    '@vue-storefront/eslint-config-ts',
+    '@bloodf/eslint-config-ts',
     '@nuxtjs/eslint-config-typescript',
-    '@vue-storefront/eslint-config-vue',
+    '@bloodf/eslint-config-vue',
   ],
 }

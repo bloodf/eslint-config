@@ -1,10 +1,10 @@
 {
-  "name": "@vue-storefront/eslint-config-ts",
+  "name": "@bloodf/eslint-config-ts",
   "version": "1.0.0",
   "description": "",
-  "author": "Heitor Ramon Ribeiro <heitor.ramon@gmail.com> (https://vuestorefront.io/)",
+  "author": "Heitor Ramon Ribeiro <heitor.ramon@gmail.com> (https://heitor.cc/)",
   "license": "MIT",
-  "homepage": "https://github.com/vuestorefront/eslint-config",
+  "homepage": "https://github.com/bloodf/eslint-config",
   "keywords": [
     "eslint-config"
   ],
@@ -23,8 +23,8 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.26.0",
     "@typescript-eslint/parser": "^5.26.0",
-    "@vue-storefront/eslint-config-base": "workspace:*",
-    "@vue-storefront/eslint-config-ts": "workspace:*",
+    "@bloodf/eslint-config-base": "workspace:*",
+    "@bloodf/eslint-config-ts": "workspace:*",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-airbnb-typescript": "^17.0.0",
     "eslint-config-prettier": "^8.5.0",

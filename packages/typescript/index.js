@@ -1,9 +1,9 @@
-const basic = require('@vue-storefront/eslint-config-base')
+const basic = require('@bloodf/eslint-config-base')
 
 module.exports = {
   plugins: ['@typescript-eslint'],
   extends: [
-    '@vue-storefront/eslint-config-base',
+    '@bloodf/eslint-config-base',
     'airbnb-typescript/base',
     'plugin:import/typescript',
     'plugin:@typescript-eslint/recommended',
