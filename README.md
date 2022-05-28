@@ -33,7 +33,7 @@ pnpm add -D eslint @bloodf/eslint-config-base
 #### Config `.eslintrc`
 ```json
 {
-  "extends": "@bloodf-base"
+  "extends": "@bloodf/eslint-config-base"
 }
 ```
 
@@ -41,13 +41,13 @@ pnpm add -D eslint @bloodf/eslint-config-base
 [![npm](https://img.shields.io/npm/v/@bloodf/eslint-config-ts?color=a1b858&label=)](https://npmjs.com/package/@bloodf/eslint-config-ts)
 #### Install
 ```bash
-pnpm add -D eslint @bloodf/eslint-config-typescript
+pnpm add -D eslint @bloodf/eslint-config-ts
 ```
 
 #### Config `.eslintrc`
 ```json
 {
-  "extends": "@bloodf-typescript"
+  "extends": "@bloodf/eslint-config-ts"
 }
 ```
 
@@ -61,7 +61,7 @@ pnpm add -D eslint @bloodf/eslint-config-nuxt
 #### Config `.eslintrc`
 ```json
 {
-  "extends": "@bloodf-nuxt"
+  "extends": "@bloodf/eslint-config-nuxt"
 }
 ```
 
@@ -75,7 +75,7 @@ pnpm add -D eslint @bloodf/eslint-config-nuxt2
 #### Config `.eslintrc`
 ```json
 {
-  "extends": "@bloodf-nuxt2"
+  "extends": "@bloodf/eslint-config-nuxt2"
 }
 ```
 
@@ -89,7 +89,7 @@ pnpm add -D eslint @bloodf/eslint-config-vue
 #### Config `.eslintrc`
 ```json
 {
-  "extends": "@bloodf-vue"
+  "extends": "@bloodf/eslint-config-vue"
 }
 ```
 
@@ -104,7 +104,7 @@ pnpm add -D eslint @bloodf/eslint-config-vue2
 #### Config `.eslintrc`
 ```json
 {
-  "extends": "@bloodf-vue2"
+  "extends": "@bloodf/eslint-config-vue2"
 }
 ```
 
